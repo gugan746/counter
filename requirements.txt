@@ -1,0 +1,5 @@
+flask
+gunicorn
+rapidocr-onnxruntime
+opencv-python-headless
+numpy
